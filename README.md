@@ -4,7 +4,7 @@ This analysis shows Bikeshare data from NYC Citibike in the Month of August 2019
 
 ## Overview
 
-The Citibike Tableau Story is available at this [link] (https://public.tableau.com/views/Citibike_Challenge_Viz/CitibikeViz?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+The Citibike Tableau Story is available at this link: https://public.tableau.com/views/Citibike_Challenge_Viz/CitibikeViz?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Results
 
@@ -44,3 +44,6 @@ The Citibike Tableau Story is available at this [link] (https://public.tableau.c
 - Subscribers are more likely to ride bikes and ride them throughout the week at almost equal intervals with the exception of Wednesdays, Saturdays and Sundays.  
 
 ## Summary
+
+- Overall, bikes seem to be ridden more by males than females, peak hours of bike usage are during rush hour when people are going to and getting off work, and bikes are used more in the city rather than the outskirts of town. 
+- Two more visualizations would be to look at how age affects who utilizes bikes and how age affects what times people utilize the bikes during the day. 
